@@ -67,4 +67,3 @@ public class trigon2 {
         }
     }
 }
-// sdfjlsjfjsdlfjslkdfjlksjflksdjfjsdflsdjfl
