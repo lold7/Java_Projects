@@ -7,7 +7,7 @@ public class methodc_to_f {
         System.out.print("Enter C for find Celcius or F for find Fahrenheit: ");
         char choose = input.next().toUpperCase().charAt(0);
 
-        System.out.print("Enter E for exit program: ");
+        System.out.println("(Enter E for exit program)");
         while (true){
             if (choose == 'C'){
                 System.out.print("Enter Fahrenheit: ");
