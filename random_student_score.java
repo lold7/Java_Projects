@@ -1,6 +1,4 @@
 
-
-
 public class random_student_score {
     public static void main(String[] args){
         int A = 0;

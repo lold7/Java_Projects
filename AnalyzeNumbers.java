@@ -13,13 +13,6 @@ public class AnalyzeNumbers {
         for (int i = 0; i<n;i++){
             numbers[i] = input.nextInt();
         }
-
-
-
-
-
-
-        
         String alltext = "";
         for (int i : numbers){
             alltext += "  "+i;
